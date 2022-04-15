@@ -1,0 +1,134 @@
+.contenedor{
+    background-color: orange;
+    padding: 50px;
+    display: flex;
+    margin-right: 20px;
+}
+.caja{
+    background-color: blueviolet;
+    width: 200px;
+    height: 100px;
+    margin: 30px;
+    border: 20px solid;
+    padding: 0px;
+}
+.titulo {
+    font-family: 'Rubik Puddles', cursive;    color: #fab427;
+    padding: 10px;    
+    display: block;
+    font-weight: bold;
+}
+.cabecera{
+    text-align: center;
+    background-color: #fab427;
+    height: 150px;
+    font-size: 2em;
+    border-radius: 25px;
+    border: 10px solid #BBBBB7;
+    background-image: url(https://img.freepik.com/free-photo/solid-concrete-wall-textured-backdrop_53876-129493.jpg?t=st=1649216565~exp=1649217165~hmac=93cecc23a82098d46650daa2355eb23684e99489536cbe1c22b57be550d53617&w=1380);
+    background-size: 1500px;
+
+}
+.botonesnav{
+    color: aliceblue;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 20px;
+    
+    
+
+}
+.botonera{
+    background-color: #fab427;
+    padding: 5px;
+    text-align: center;
+    font-size: large;
+    align-self: center;
+    height: 100px;
+    border-radius: 25px;
+    border: 5px solid black;
+    
+    
+    
+}
+.piedepagina{
+    background-color: brown;
+    text-align: center;
+    padding: 30px;
+    color: aliceblue;
+    position: absolute;
+    bottom: 0;
+    width: 96%;
+    border-radius: 25px;
+
+}
+.seccion1{
+    height: 300px;
+}
+.fondobody{
+    background: url(https://img.freepik.com/free-vector/seamless-pizza-ingredients_1176-269.jpg?t=st=1649214615~exp=1649215215~hmac=b2c726cbf374c324ca49b4ebb9f81149276a7c24b8cfb6feb932ef195a79985d&w=826)
+     }
+.menu{
+    width: 900px;
+    margin: 0 auto;
+
+}
+nav ul li{
+    list-style: none;
+    margin-left: 135px;
+    padding: 20px;
+    float: left;
+    font-family: 'Josefin Sans', cursive;
+
+}
+nav ul li a{
+    text-decoration:none;
+    color:bisque;
+    font-weight: bold;
+}
+
+.ig{
+    font-family: 'Inconsolata', monospace;  color:black;
+}
+.articulo1{
+
+  
+
+}
+.articulo2{
+   
+    border: 10px solid;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+
+    
+     
+   
+   }
+.imagenarticulo1{
+    width: 700px;
+    height: 600px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+.art{
+    height: auto;
+    margin-top: 150px;
+    border: 10px solid;
+    display: inline-flex;
+    width: auto;
+    
+}
+.texto1{
+    border: 2px solid;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 50px;
+    
+
+}
+.parte1{
+    display: flex;
+}
